@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Electricity-Cost Calculator
+//  test
 //
 //  Created by Julian Lau on 21.08.22.
 //
